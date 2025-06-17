@@ -17,9 +17,9 @@ import aiohttp
 
 DEFAULT_STATIC_AUTH = """
 [Auth]
-ltuid_v2 = 78247471
-account_mid_v2 = 1fsjqpseek_hy
-uid_HSR = 800806374
+ltuid_v2 = IMPORT HERE
+account_mid_v2 = IMPORT HERE
+uid_HSR = IMPORT HERE
 """
 # -------------------------
 
